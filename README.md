@@ -326,7 +326,6 @@ const [sendMessage, lastMessage, readyState] = useWebSocket(
   }
 );
 ```
-
 ## Options
 
 ```ts
